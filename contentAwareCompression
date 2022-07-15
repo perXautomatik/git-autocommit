@@ -6,21 +6,7 @@ abstract:
             where total size aproach original size as nr of objects increases.
             where worste case would be : basicly one object per frame. and only tranformation describing time distribution.
             
-            
-            
-            ai aproach
-                segment the image according to some sort of algorithm, who does it's best to identify tangable objects in the media, for exampel faces and or objects.
-                then use a hirarchial descision if the segment is to be compressed lossless or lossy.
-                assuming that a face should be the least compressed, in relation to say foilage, 
-            
-            ai aproach tranformation matching
-                after objects have bin identified, pre compression bin applied, attempt to identify a predictive aplication of said transformation, 
-                that is, asume a object is an arm, asume that the transformation is a crop, rotatat and titlt in 3d space, and assume smooth "natural" transitions between 
-                this states. ai could be utilized to find the most suitable initial coordinates and or scaling so that you don't need to use pure brute force atempt to test them all.
-                
-            ai to reaply originally gradualy 
-                to increase detales after tranformation and similar, utelize some sort of nNetwork to guestimate where retoutching might be needed.
-                
+
             natural = smooth
                  an object in N space, can be represented as a matrix of appropriate size, according to any arbitary viewpoint
                  a natural transition,  
@@ -37,14 +23,50 @@ abstract:
             colour masking for object simplification
                 in theory, if you represent an image in pixels, each pixel is a vertex in a 5d space, where you have a total colour saturation, alpha and darkness.
                 as objects become identified, and precompressed, saturation and darkness could then be divided from the base objects as transformations. this is 
-                based on the asumption that there is no even lightsource, and that moving an object in a partly lit 3d space will change how darkness is mapped over an objects surface.
-                therefore, we can make a asumption, that the object on the image does not need to change significantly regarding to darkness and or light, but might apear to do so due to movement
-                therefore a objects portraied statete is not nesesarly that the object have an inheret darkness to it, but rather, that it's current context has applied a predictive darkness uppon the object.
+                based on the asumption that there is no even lightsource, and that moving an object in a partly lit 3d space will change how darkness is mapped 
+                over an objects surface.
+                therefore, we can make a asumption, that the object on the image does not need to change significantly regarding to darkness and or light, but might 
+                apear to do so due to movement
+                therefore a objects portraied statete is not nesesarly that the object have an inheret darkness to it, but rather, that it's current context has 
+                applied a predictive darkness uppon the object.
+           
+                when a object bin identified, on a number of time deltas, we can then summurize a objects inherent state by extracting a "largest possible non transmuted"
+                colour value 
+                in any location in 5d space, the purest state of an object, this is assumed to be patchy mostly, maybe not even more than a few pixels of saturationand
+                a border, at best
+                a sharp object of high pixel density, requiring minimal transformation to assume minimal difference from initial source in each time deltas.
+                a objects purest form could be achived by simply gues a transfomration for each state, then subtract the transfomration from the object and apply the rest
+                onto a view-neutral map.
+                each substracted state is applied accordingly onto the map filling it more or less, leaving alpha where no saturation occured.
+                
+                we can then correct this map by then retransforming the purest state in the different deltas accordign to predictions, and assume correctness from how 
+                far from source ressult is.
+                we then utlize ai to tweak our transformation assumptions, and rerunn this process untill no improvement can be aschived, or repeated attempt concluded 
+                futile or to costly. this will be a according to preselected gauges before initial compression attempt.
+                
+                a purest form could be clompleted and finnaly be described as a single colour object with the help of graph network "Neighbourhood" identifications regarding each
+                saturation event on the map and then making a 
+                single standard per neighborhoods as we can make assumptions of naturality even when it comes of specs of colour.
+                
+           
            
             light trajectory prediction
-                might be bit to gpu intence, and i think a gues based on assumed predicability of objects transoformation and applied shadowmapping could be faster 
-           
-                 
+                might be bit to gpu intence, and i think a gues based on assumed predicability of objects transoformation and applied shadowmapping could be faster                          
+            
+            ai aproach
+                segment the image according to some sort of algorithm, who does it's best to identify tangable objects in the media, for exampel faces and or objects.
+                then use a hirarchial descision if the segment is to be compressed lossless or lossy.
+                assuming that a face should be the least compressed, in relation to say foilage, 
+            
+            ai aproach tranformation matching
+                after objects have bin identified, pre compression bin applied, attempt to identify a predictive aplication of said transformation, 
+                that is, asume a object is an arm, asume that the transformation is a crop, rotatat and titlt in 3d space, and assume smooth "natural" transitions between 
+                this states. ai could be utilized to find the most suitable initial coordinates and or scaling so that you don't need to use pure brute force atempt to test them all.
+                
+            ai to reaply originally gradualy 
+                to increase detales after tranformation and similar, utelize some sort of nNetwork to guestimate where retoutching might be needed.
+                
+
                 
                 
 
