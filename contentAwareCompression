@@ -1,0 +1,55 @@
+abstract:
+            identify reocuring objects in media,
+              store unique objects together with context sensitive tranformation info.
+            
+            ressult, should be a [total size] a function of (nr) x ( of objects ) + ( tranformations ) 
+            where total size aproach original size as nr of objects increases.
+            where worste case would be : basicly one object per frame. and only tranformation describing time distribution.
+            
+            
+            
+            ai aproach
+                segment the image according to some sort of algorithm, who does it's best to identify tangable objects in the media, for exampel faces and or objects.
+                then use a hirarchial descision if the segment is to be compressed lossless or lossy.
+                assuming that a face should be the least compressed, in relation to say foilage, 
+            
+            ai aproach tranformation matching
+                after objects have bin identified, pre compression bin applied, attempt to identify a predictive aplication of said transformation, 
+                that is, asume a object is an arm, asume that the transformation is a crop, rotatat and titlt in 3d space, and assume smooth "natural" transitions between 
+                this states. ai could be utilized to find the most suitable initial coordinates and or scaling so that you don't need to use pure brute force atempt to test them all.
+                
+            ai to reaply originally gradualy 
+                to increase detales after tranformation and similar, utelize some sort of nNetwork to guestimate where retoutching might be needed.
+                
+            natural = smooth
+                 an object in N space, can be represented as a matrix of appropriate size, according to any arbitary viewpoint
+                 a natural transition,  
+                 assumes each change of an object axises will be representable by a non interupted series 
+                 assumes, that no move in this space can occure without regestrating in each axel in proportion to trajectory.
+                 basicly, no teleportations or jumpcuts is possible in a natural enviorment.
+                 this does not mean that no object can dissapear to the reapear in view, but rather, any object currenlt in a viewpoint,
+                 can be assumed to, if moving, to be moved naturally, and we could therefore apply transformation not just over 3d space, but also in 4d.
+                 by observing transformation, uninteruptedly over a time delta (T), and due inherent predictabilty, we can replace a series of tranformational states, with a function(T) 
+                 stating, how each axel will be transform and when.
+                 it's cruizal that object segmentation has already bin done before such function identification could be applied, as you otherwise would need to transforme a massive matrix with no simple tranformational relation.
+                 
+                
+            colour masking for object simplification
+                in theory, if you represent an image in pixels, each pixel is a vertex in a 5d space, where you have a total colour saturation, alpha and darkness.
+                as objects become identified, and precompressed, saturation and darkness could then be divided from the base objects as transformations. this is 
+                based on the asumption that there is no even lightsource, and that moving an object in a partly lit 3d space will change how darkness is mapped over an objects surface.
+                therefore, we can make a asumption, that the object on the image does not need to change significantly regarding to darkness and or light, but might apear to do so due to movement
+                therefore a objects portraied statete is not nesesarly that the object have an inheret darkness to it, but rather, that it's current context has applied a predictive darkness uppon the object.
+           
+            light trajectory prediction
+                might be bit to gpu intence, and i think a gues based on assumed predicability of objects transoformation and applied shadowmapping could be faster 
+           
+                 
+                
+                
+
+                
+                
+            
+            
+                  
