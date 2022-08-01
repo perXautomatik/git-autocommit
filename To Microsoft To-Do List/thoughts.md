@@ -1,6 +1,6 @@
-thoughts
+# thoughts
 
-    should i leave a ref to the reppo with the different copyies of one file repos.
+should i leave a ref to the reppo with the different copyies of one file repos.
         maybe easier to use a svn repo for this, as i don't know if you could just dropp a repo reff without incorperating into a exsisting repo also residing there.
 
         svn could be both local central or remote central, but right now it's easier to point to the local central
@@ -17,4 +17,4 @@ folder image orkistartion with docker, basicly, docker but without underlaying o
 * a folder or a file system should be a version control system, and one aproach would be to trace what is duplicates and what's not.
 
 
-* 
+*
