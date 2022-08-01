@@ -1,4 +1,4 @@
-conclusion
+conclusion; synonyms
 
 to get a apropriate defenition of a synonym in a number of text blocks, assume that each word of interest is not mentioned more than 1 in each entry.
 therefore, we do not need any statistical relationship with any other word in each block, and statistics should be extracted regarding each word in relationship to each other blocks separate words.
