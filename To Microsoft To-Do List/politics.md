@@ -1,6 +1,6 @@
-information spreading
+# Politics: information spreading
 
-    what ever party, people needs information of what therere current partie do
+what ever party, people needs information of what therere current partie do
 
 easy accessable statistics aggregated from open publications.
 
