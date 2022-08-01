@@ -1,3 +1,4 @@
+Todo: userscripts 
 if you're currently looking at a artist in your library,
 make the upper artist/album/tracks buttons reffer to currently viewed entry, not generally all scrobbles.
 for example, <https://www.last.fm/user/konstruktor_k/library/music/xotox/Lichtlos>
