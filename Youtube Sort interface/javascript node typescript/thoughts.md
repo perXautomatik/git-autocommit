@@ -1,3 +1,4 @@
+Todo: userscripts
 ask olof how easiest to aproach
 
 simple interface centered arround a tumbnail of a youtubevideo
