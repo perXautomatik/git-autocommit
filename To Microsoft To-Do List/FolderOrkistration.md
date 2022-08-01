@@ -1,3 +1,4 @@
+Thoughts; hard link orkistartion
 * hardlink orkistartion 
     if not possible by using images, use Docker like syntax to describe content of source,
     what is readable and writeable, and where to create this clones.
