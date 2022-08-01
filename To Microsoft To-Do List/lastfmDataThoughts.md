@@ -1,3 +1,4 @@
+Sql; last.fm loved
 last.fm loved and date of loved is not as relevant as the times you played the songs.
 that is, the date of love coinsides with a playtime, then this the loved date is relevant, otherwise it's more likely it is a correction.
 
