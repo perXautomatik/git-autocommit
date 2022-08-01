@@ -1,3 +1,4 @@
+#source: xml to reg
 #!/usr/bin/env perl -w
 #
 # author:  pancake <pancake@youterm.com>
