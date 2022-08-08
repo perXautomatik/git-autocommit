@@ -181,6 +181,3 @@
 [submodule "useFullRegEdits"]
 	path = useFullRegEdits
 	url = https://gist.github.com/f84ff3c25cec6518f7adee14e2e00a39
-[submodule "browserBookmarkss"]
-	path = browserBookmarkss
-	url = https://gist.github.com/a61f28b31538eecf42fae3641051b1ac
