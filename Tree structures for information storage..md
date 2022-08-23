@@ -76,3 +76,6 @@ this is due to it's generated nature, and it was never supposed to be a informat
 the babel library can therefore not make any optimizations on there hashes, no what so ever, as the key is absolutely saturated in navigational value.
 
 
+the storage will ultimately be similar to a trained neural network, where each node is a increased bias, 
+where data is stored denser and denser depending on it's probabilty to be alongside another word.
+
