@@ -79,3 +79,9 @@ the babel library can therefore not make any optimizations on there hashes, no w
 the storage will ultimately be similar to a trained neural network, where each node is a increased bias, 
 where data is stored denser and denser depending on it's probabilty to be alongside another word.
 
+optimization can be done partly by share occurence statistics, but won't ever be complete, 
+usage is the only way to truely scale how tight some information needs to be, 
+
+we could simulate this on smaller sets, by putting pause timer statements on certain regions, 
+
+
