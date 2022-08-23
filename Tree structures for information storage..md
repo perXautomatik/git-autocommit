@@ -70,4 +70,9 @@ the reference key should be as short as possible, yeat as unique as possible, an
 still refering to same data.
 
 
+i suppose the hashingmethod is sameish as the algorithm behind the babel webpage, though the library, is in theory, a complete set, you could say that the key is perfect no more information can be added unless you make the key longer.
+i think it also build itself on complete randomness, and consists mainly of gibberish with a few nodes of actual data, 
+this is due to it's generated nature, and it was never supposed to be a information storage, rather a invformation display by reference.
+the babel library can therefore not make any optimizations on there hashes, no what so ever, as the key is absolutely saturated in navigational value.
+
 
