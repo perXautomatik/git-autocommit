@@ -46,3 +46,28 @@ That would allow the path to have simpler indexes for each step in the tree.
 This reference nodes would be one way paths not containig any information but only referring to which ever node was overcrowded.
 
 It's important that the structures are very proof to removal and addition, and i think that regardless of how large a dataset grow to be, the keys referring to them should be the same, that is, regardless of what messier of optimization, same key leads to same data.
+
+
+a extream case could be a startingpoint, a alphabet, then as you insert data, each letters reference grows larger, 
+such a graph would have keys as long or longer than inserted data.
+but could be the start of a optimization effort, probably starting with identifiying most comon references, or even some references that's same all over ingested data.
+this references can be replaced with translation shortcuts.
+this then need to be replaced in the paths until satesfactory short paths have bin deviced and clusters of efficent size have bin concluded.
+
+the storage should in theory be more efficent the more data is stored in it, as information repeats itself, and kardinality decreses in proportion with number of insertions, out of share probability of big numbers.
+
+
+we could start of this experiemtn with a node set consisting of a symbols in the ascii symbol table.
+
+then we feed this graph with some arbitary text. most intersting in the beguining would be a list of words, possibly short sentenses, 
+each word get in advanced a unique identifier, we then tell the graph, that we want to create a directed path between the nodes named according to the lines identifier, 
+this initial graph will not be efficent, it will not be fast, but will create a maximum state for a dataset U on a atmoic graph of Y
+and we can use it as reference if we want to go the other way arround.
+
+regardless the maximum state is very interesting out of a optimization point aswell, as it is the absolutely least efficent state, and any improvisation will be notisable.
+
+the reference key should be as short as possible, yeat as unique as possible, and unique even if the graph grows many times in magnitude.
+still refering to same data.
+
+
+
