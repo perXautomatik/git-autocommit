@@ -84,4 +84,7 @@ usage is the only way to truely scale how tight some information needs to be,
 
 we could simulate this on smaller sets, by putting pause timer statements on certain regions, 
 
+we simulate stress by storing nodes in container classes which implements a slight delay, to make the optimization a actually solvable issue, we can make this delays bit different for each container and the container containing differently many nodes, 
+then randomly fetch according there paths a few thousand times, collecting it's time.
+
 
