@@ -87,4 +87,26 @@ we could simulate this on smaller sets, by putting pause timer statements on cer
 we simulate stress by storing nodes in container classes which implements a slight delay, to make the optimization a actually solvable issue, we can make this delays bit different for each container and the container containing differently many nodes, 
 then randomly fetch according there paths a few thousand times, collecting it's time.
 
+initaliy we have x nodes, with no relations,
+next we have x nodes with x^y connections.
+finnally before testing, we have the collector classes simulating sectors on a harddrive.
+we would initially fill the "sectors" according to densests connctions...
+
+for simplicity sake, we let each "sector" have a maximum node count, letting it having a indefinate amount of connections.
+
+we'd "tax" the algorithm each time it switches sector, 
+
+if the sectors would be something like 2,4,8,16,32,64.. node count in size and adding a 2 miliseconds in delay as the sector grow larger.
+
+we'd distrobute the initial nodes according to most common occurence, like "e","s" could be first two nodes, and "t","r","o","a" in next 
+
+i think a regular update of arangement of nodes makes sence, something like, every 1000 access or similar, each access is recorded, 
+and measure can be taken if a commonly visited pair in past accesses is possible to replace with two nodes having less common acces in same block,
+we'd basicly, for each itteration, want to minimize block jumping, we can also look if any block host a seldomly access pair of faster access than of a more commonly accessed pair in a slower partition, which then probably should be moved.
+
+we could also register what is switching what to maybe counter infinit switches between a circle of pairs.
+
+
+
+
 
