@@ -1,9 +1,9 @@
 ---
 created: 2022-11-04T09:57:08+01:00
-modified: 2022-11-04T09:59:44+01:00
+modified: 2022-11-04T10:00:55+01:00
 ---
 
-# Centralized git journal
+# Centralized repo journal
 
 Git root path
 Git origin
