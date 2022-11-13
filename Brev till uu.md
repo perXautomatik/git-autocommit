@@ -1,6 +1,6 @@
 ---
 created: 2022-11-11T01:43:17+01:00
-modified: 2022-11-12T16:23:35+01:00
+modified: 2022-11-13T16:18:25+01:00
 ---
 
 # Brev till uu
@@ -28,6 +28,7 @@ statistisk modulering,
 operativsystem, 
 gpu computation, 
 graph databaser,
+
  geo spatial indexering (andra alternativa indexerings system)
  distribuerade system och parralel programmering, samt virtualisering.
 
@@ -35,6 +36,6 @@ Och jag har en fascination för neuro biologi samt psykologi men det vore väll 
 
 Kurser som jag spontant skulle känna vore lämpligt att börja med vore nog
 
-Dot.net, PHP, c#, 
+Dot.net, PHP, c#, python
 Kanske någon grundläggande kurs i statestik, kanske 
 Någon mer djupgående kurs inom databaser eller Java.
