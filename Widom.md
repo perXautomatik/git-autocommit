@@ -1,9 +1,9 @@
 ---
 created: 2023-01-11T08:33:50+01:00
-modified: 2023-01-11T08:41:37+01:00
+modified: 2023-01-11T08:41:46+01:00
 ---
 
-# Widom
+# Wisdom
 
 If you need to explain every expense at a workplace, then your clearly in the wrong place, find a location with more monetary freedome.
 
