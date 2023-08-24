@@ -1,21 +1,37 @@
----
-created: 2024-06-27T14:25:37+02:00
-modified: 2024-06-27T14:34:18+02:00
----
 
-# Todo
+- [ ] alphine wsl 
+	- mount ides?
+- [ ] read discord iot
+- [x] order iot devices
+- buy 
+	- [ ] tiny scanner
+- Scoop 
+	- [ ] freemind presist in nottaking module, partial checkout
+- programming
+	- Python&Ai
+	 - [ ] ai - image segmentation => mapp images in 3d grid of space taken
+	 - [ ]  ai - continue artworks of breeding season
+	 - [ ]  ai - video enhancements...
+ - c#
+	 - [ ] C# layerd filesystems, mmo2 to drive
 
-- [ ] Explore wubuntu
-- [ ] Twitter api ? Might be paid today
-- pineapple pie
-- peach pie
-- get screen from basement
-- reinstall windows
-- ask gpt if taggui 
--   - can be invoked by calling PowerShell
--   - can be utelized with custom model
--   - hairstyle identification model
--   - photography age identification model
--install ps notification bar module
-- [ ] Weekly podcast with Sabrina och Fidel.
--
+
+
+# powerShellTodo
+
+
+bsaArchive at path
+
+calling script should call archive on all folders but Audio
+
+and name the file, according to esp in folder with prefix of subfolders such as textures
+then delete compressed folder
+
+TODO:
+        autoHotkey clipboard direction service
+            pretty sure there was a clipboard manager written in ahk, and we could piggyback on that.
+
+install or find geck
+
+
+change sms signal for sabrina or read them outloud

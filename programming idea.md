@@ -1,3 +1,4 @@
+Program: ideas
 program to generet stucturing suggestion for soulseek uploads
 
 scan folder tree for files
