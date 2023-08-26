@@ -1,1 +1,0 @@
-component list and connections, vizulise values over components and highlight uncertainties, i am less interested in magnetic disturbance and other high accuracy measures and more interested in broad strokes approach 

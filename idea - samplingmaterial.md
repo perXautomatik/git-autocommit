@@ -1,1 +1,0 @@
-"so the underpass was filled with gas before it was sealed" - inside jupiter powerplant stalker call of pripyat
