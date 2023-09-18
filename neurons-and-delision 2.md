@@ -1,0 +1,11 @@
+---
+created: 2022-08-29T08:54:36+02:00
+modified: 2022-08-29T09:07:04+02:00
+---
+
+# Neurons and delision
+
+Assumptions;
+The brain seeks to save energy.
+The brain can be described as a network of neurons
+With the help of help of hormones the neurons can solidify or dissolve bias.
