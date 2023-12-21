@@ -1,4 +1,4 @@
-Todo	
+	
 	ring john
 
 gor bg chars: thief/wizslayer, avenger/fighter, beastmaster/cleric, kensai/theif/mage
@@ -38,3 +38,4 @@ upload albums not listed at whatcd
 * send message to uploader of albumms i can't download at what cd.
 * figure out healrate for life per furry spent
 * hottspot loppy with phone
+
