@@ -1,3 +1,8 @@
+---
+created: 2022-08-29T11:30:55+02:00
+modified: 2022-08-29T11:30:55+02:00
+---
+
 # PowerShell cache
 
 Establish SQLite db,
