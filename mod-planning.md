@@ -15,3 +15,9 @@ Common ancestor?
 If possible make a ingredient a root node
 And result into a child node
 This will be less efficient if child nodes can't have common ancestors
+
+
+7days to die mod
+	* see total stats from gear as standard window in staits menue, 
+	* routs: set up quest sequence, 
+		basicly click on quest icons in the map with shift down and they will remind you and move tracker as you complete them instead of pointing back to trader
