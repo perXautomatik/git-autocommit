@@ -1,3 +1,31 @@
+stash.db ==> digikam.db
+stash . json ==> digikam.db
+
+bänkdiskmaskin
+
+planlösning på lägenheten
+	plannera hemlabbet
+		dedikerad flyttlåda för musikskapande
+		dedikerad flyttlåda för verktyg
+		
+
+luft rening med gammla hepa filter
+
+git file of regex as branch to other 
+
+magnettejpa sestjärnet
+
+central tidslinje databas... personlig databas program som interface
+
+fallout 4 mod
+	no loot on enemy death, 
+		instead
+		 automatically move to central storage
+		 wait till interacted with, then add to central storage
+		 automatically move corpse to central storage
+
+
+
 trello
 
 erik ser ut som youtubern megalag
