@@ -1,2 +1,0 @@
-- [ ] dg-publish
-- [ ] dg-home
