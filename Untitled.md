@@ -490,3 +490,5 @@ Mitt ansvar
 SIUS-konsulentens ansvar
 Nästa möte / kontakt
 åååå-mm-dd>)
+
+På arbetsplatsen önskar jag klara förväntningar på tidsplannering, och uppföljning därefter, ett schema som jag kan följa och återkoppla angående.
