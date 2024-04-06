@@ -1,6 +1,6 @@
 ---
 created: 2024-04-02T10:40:21+02:00
-modified: 2024-04-02T10:56:10+02:00
+modified: 2024-04-06T16:09:14+02:00
 ---
 
 # Hemse anmärknin gar
@@ -15,3 +15,7 @@ Dörr klädkammaren, färgskada.
 
 Köp dörrstopp till uteplats dörr.
 Köp fönster öppningshjälp drag snöre
+Köp låda med hjul under sängen
+Gardiner till kök
+
+Kan Xbox användas som chromecast
