@@ -1,6 +1,6 @@
 ---
 created: 2024-04-08T09:22:31+02:00
-modified: 2024-04-08T11:47:00+02:00
+modified: 2024-04-08T12:10:59+02:00
 ---
 
 # Till pappa
@@ -90,4 +90,12 @@ Men är det inte konstigt att din bror lyckades att uppfostra både en skötersk
 När jag försöker minnas min barndom och min tonår konstaterar jag att det var många minnen som jag skapade på egen hand, jag mins inte hur du såg ut som yngre och tittar jag på gamla foton av dig känns de något underliga, detta speglar endast hur lite effekt tiden vi spenderade tillsammans gav. 
 Jag minns hur du rör till mig "är du nöjd nu" och "du är lat" och jag vill minnas att bland de sista gången du frågade om jag var nöjd svarade jag argt tillbaka att "det var jag" detta skedde dock i te förens vid tidigt tånor.
 
-Varför behöver jag boendestöd? Vad tror du egentligen är skälet? Att jag är för lat för att göra mina egna sysslor? Här kan jag möjligen skylla min mor att jag önskar att ni båda hade engaskerat er i att lära mig att föra hushållssysslor, ty ända fram i vuxen ålder har dessa stressat mig, med känslan att jag inte vet hur jag skall utföra dessa korrekt eller till min egen belåtelse, detta detsamma med andra praktiska sysslor då min uplevelD från dig vart att du hastigt instruerade mig en uppgift för att sebmdam
+Varför behöver jag boendestöd? Vad tror du egentligen är skälet? Att jag är för lat för att göra mina egna sysslor? Här kan jag möjligen skylla min mor att jag önskar att ni båda hade engaskerat er i att lära mig att föra hushållssysslor, ty ända fram i vuxen ålder har dessa stressat mig, med känslan att jag inte vet hur jag skall utföra dessa korrekt eller till min egen belåtelse, detta detsamma med andra praktiska sysslor då min uplevelD från dig vart att du hastigt instruerade mig en uppgift för att sedan bli irriterad över att jag inte verkade engagerad nog i uppgiften du gav mig, samma där för mor, då hon istället tog över.
+
+Jag har hört att du förklarar att på grund av mammas degrederande hörsel att du på något sätt fick bära hela lasset vad gällande min uppfostran, och detta är kanske din uppfattning, men jag känner ändå att mamma lyckades med uppdraget som du hävdar att hon inte var kapabel till, du vart en otrevlig surgubbe helt på egen hand oavsätt om hon hörde eller inte.
+
+Jag är absolut besviken på mamma att hon lät dig bete dig som du gjorde under alla dessa år, det vart så vitt jag minns bara min bror som en gång stälde sig upp för att stoppa dina bannor mot mig då han beklagade sig över att du alltid vart arg på mig.
+Jag tror dock att du har varit bra på att övertyga min mor att det var på något sätt försvarbart och att jag behövde detta, vilket i sig gör mig sorgsen bara att spekulera över detta.
+
+Att jag kan bli oförklarligt arg eller orpopertionellt sådant är inte något som jag själv eller andra håller med om, jag kan absolut bli arg, det är ett sätt att få utlopp för den frustration jag har känt och känner, att bli noschallerad eller underminerad kan absolut göra mig arg och enligt mig högst förståeligt, du är heller inte så bra på att de eskalera vid sådant tillfälle då du gärna går in i dina favorit försvars positioner istället för att medge ifall att du har fel. 
+Minns en gång i fårösund då jag lämnade ert hus i ilska och lämnade Sabrina ensam kvar, vi kom att prata på telefon där efter och du kom att medge att "du kanske vart lite hård mot mig i min upväxt" men du kunde absolut inte erkänna att "du är lat" bannor kunda ha varit för mycket, jag vill minnas att det ända utöver detta medgivande som skedde efter detta var att jag inte skulle förtära för mycket alkohol, dvs att problemet var att jag inte klarade av drycker snarare än att vi fortfarande hade oklarade saker att prata om, detta är ett exempel på hur du underminerar min åsikt samt min myndighet genom att förkunna mig orådlig snarare än att försöka sympatisera med min uppfattning.
