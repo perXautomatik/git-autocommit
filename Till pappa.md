@@ -1,6 +1,6 @@
 ---
 created: 2024-04-08T09:22:31+02:00
-modified: 2024-04-08T10:37:05+02:00
+modified: 2024-04-08T11:47:00+02:00
 ---
 
 # Till pappa
@@ -53,3 +53,41 @@ Mins någon gång då du ville engagera dig i ett lego bygge jag hade fått som 
 Promenader och utflykter har vi gjort och de har varit mig till glädje, satt i passagerarsätet brevid dig när vi körde och för mig att jag pratade rätt mycket även då, det ändrade sig något under tonåren då jag ofta lyssnade på musik eller sov och jag antar att detta var bland annat en av de sätt du sörjde över att inte kunna spendera tid med mig.
 
 Kanske du inte förstog hur vi missade varandra, och det är inget mer med det, men vad jag lärt mig under åren är att det du inte förstår har du inte tålamod med för det irriterar dig, och jag verkade irritera dig ofta.
+
+Allt jag pratat om här förväntar jag mig att du kommer svara på två sätt, 
+Totalt ursäktande utan reflektion eller medgivande med refränger så som hur mycket du älskar mig eller dyligt, alternativt förväntar jag mig att du kommer svara med att hävda att ordvalen jag gjort är fel, att det skett ett missförstånd eller att det är på något sätt fånigt att jag kommer ihåg sådanna detaljer.
+Tredje alternativet är en total kaitulering där du istället för att reflektera över orsak och verkan ber om en finit lösning från mig, vad skall jag göra, problemet är att inget finns att göra.
+
+Jag gick från vördnad och respekt till besvikelse till sympati till ovilja och förakt, jag känner dig, du känner inte mig, jag behöver inte dig, du känner något typ av behov att upprätthålla vår kontakt men jag ser i get nytta av detta.
+Jag vet vem du är, jag känner inte att du är intresserad av vem jag är, och jag har därför ingen emotionellt kapital över till dig.
+
+För att detta skulle kunna förändras skulle det krävas att du förändrat din bild av mig, och andra, jag är inte intresserad av Någon typ av anpassning, altså du kan inte med viljestyrka göra förändringar med ordval eller psykolog besök eller samtal med varken mig eller andra på något sätt influera mitt ointresse i dig, för att jag skall på något sätt tro att vi kan återfå en relation som på något sätt går att kalla normal måste dina antisociala tendenser bearbetas, jag måste känna att du kan sympatisera med andra synsätt och värderingar, jag måste se att du engagerar dig i telectuekmllt i frågorna som presenteras, jag måste se att du respekterar mig och mina förmågor.
+
+Jag måste se att du engagerar dig i mina handikap, de du anskaffat mig och de jag fötts med.
+Du måste reflektera över de som saknats i det min barndom för att vi tillsammans kan ha en gemensam uppfattning om detta.
+
+Barnpsykologi är inte en dåligt etablerad kunskap och det är lätt att förklara mina åkommor i vuxet tillstånd enligt dess förutsättningar, om du på något sätt vill intetsäga denna vetenskap med dina egna övertygelser får du i så fall presentera mig akademiska skällor som understryker motsatsen.
+
+Jag är inte intresserad av att du läser källor eller mina utsagor och bara acceptera dem rakt ut, för att jag skall kunna åter väcka mitt i intresse för dig måste du visa att du bemöter kunskapen med reflektion.
+Jag är inte här för att predika, detta är inte binära sanningar du kan säga ja och nej till utan ett tillstånd.
+
+Jag önskar, att du till en början fördjupar dig i mina diagnoser generellt, ADD, asperger, depression, suisodalitet, avoidant personality disorder, därefter bör du fördjupa dig i hur dessa utspelar sig under barndomen, och här krävs reflektion ifall ditt uppdrag som förälder uppfylldes under denna period.
+
+Avoidant personality dissorder är något som ditt beteende resulterade i, och kan bara konstateras att detta är vad som orsakat detta, reflektion är lämplig där jag ser dig reflektera över hur du var en aktör i dess förlopp hoss mig.
+
+Ibland undrar jag om du ser din bror i mig, och därför ökar ditt förakt ytterligare.
+
+Enligt dig vart jag bortskämd, enligt mig var min bror bortskämd, han fick en ganska normal relation till dig medans jag fick detta.
+
+Det var inte så att jag på något sätt inte fick nog kärlek,uppmärksamhet,eller resurser, jag är inte frustrerad över att du inte gav nog, 
+Jag har burit på den eviga skammen att inte vara tillräcklig för dig, att vara ett problem att du endast engagerade med mig då jag var i behov av något eller för att det på något sätt borde göras, typ ringa sonen vid namnsdagen, eller dyligt.
+
+Det syns på dig att du respekterar vissa indevider, när du talar med vördnad om dess bravader eller styrkor, du se upp till indevider som kämpat i motvind, de som tjänat sin lott.
+Därför vet jag att du kan aldrig respektera mig, du ser inget värde i min intelligens, snarare är detta ännu ett skäl till varför jag borde ha presenterat bättre, antagligen skälet till varför du inte stöttat mig under min skolgång då du vart övertygad att jag klarat mig själv, och till viss del stämmer det väl, jag klarade grundskolan med mer än goda betyg, men jag lärde mig inte hur man studerar, jag lärde mig inte hur man plannerar läxor eller studier, jag lärde mig inte hur man ställer frågor eller hur man tar hjälp av andra studenters egna egagmang.
+Detta klandrar jag dock ingen för, varken du eller mor hade akademisk bakgrund.
+Men är det inte konstigt att din bror lyckades att uppfostra både en sköterska och en ingenjör, hur illa du än tycker om din bror så lyckades han med detta.
+
+När jag försöker minnas min barndom och min tonår konstaterar jag att det var många minnen som jag skapade på egen hand, jag mins inte hur du såg ut som yngre och tittar jag på gamla foton av dig känns de något underliga, detta speglar endast hur lite effekt tiden vi spenderade tillsammans gav. 
+Jag minns hur du rör till mig "är du nöjd nu" och "du är lat" och jag vill minnas att bland de sista gången du frågade om jag var nöjd svarade jag argt tillbaka att "det var jag" detta skedde dock i te förens vid tidigt tånor.
+
+Varför behöver jag boendestöd? Vad tror du egentligen är skälet? Att jag är för lat för att göra mina egna sysslor? Här kan jag möjligen skylla min mor att jag önskar att ni båda hade engaskerat er i att lära mig att föra hushållssysslor, ty ända fram i vuxen ålder har dessa stressat mig, med känslan att jag inte vet hur jag skall utföra dessa korrekt eller till min egen belåtelse, detta detsamma med andra praktiska sysslor då min uplevelD från dig vart att du hastigt instruerade mig en uppgift för att sebmdam
