@@ -1,4 +1,4 @@
-Pain academy
+Writing: Pain academy
 
 as aspiering new soldiers enter the finer schools for combat training 
 they're borrowed a ring each.
