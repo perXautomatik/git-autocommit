@@ -1,9 +1,6 @@
 [core]
-	bare = false
+	bare = true
 	repositoryformatversion = 0
 	filemode = false
 	symlinks = false
 	ignorecase = true
-	logallrefupdates = true
-[tgit]
-	commitshowpatch = false
