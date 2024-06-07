@@ -1,4 +1,4 @@
-[Sökandeanalys SIUS
+[
 
 SIUS_Sökandeanalys 2014-06-23
 
