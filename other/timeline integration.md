@@ -1,1 +1,0 @@
-continus monitoring of speaker output and transcription to text, 
