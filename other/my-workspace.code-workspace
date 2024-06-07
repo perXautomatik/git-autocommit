@@ -1,0 +1,12 @@
+﻿{
+    "settings":  {
+                     "breadcrumbs.enabled":  true,
+                     "editor.autoClosingBrackets":  "beforeWhitespace"
+                 },
+    "folders":  [
+                    {
+                        "name":  "Folder0",
+                        "path":  "C:\\ProgramData\\Scoop\\persist\\Powershell\\"
+                    }
+                ]
+}

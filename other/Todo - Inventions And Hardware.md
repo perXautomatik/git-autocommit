@@ -1,0 +1,1 @@
+- wire microwave rotating table to the old microwave? should be same circuit as the light basicly.

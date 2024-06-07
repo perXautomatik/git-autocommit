@@ -1,0 +1,1 @@
+B:/PF/NoteTakingProjectFolder/we should start it here -2023-08-24.md
