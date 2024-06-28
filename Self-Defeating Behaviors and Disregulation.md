@@ -1,0 +1,1 @@
+Self-Defeating Behaviors and Disregulation: The speaker talks about how disregulation can activate self-defeating behaviors and how they can negatively impact healing.

@@ -1,0 +1,1 @@
+ Characteristics of Self-Defeating Behaviors: The speaker mentions that self-defeating behaviors are attempts to cope with pain, but ultimately create more problems.
